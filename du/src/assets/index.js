@@ -25,12 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import apisero from "./apisero.png"
 import sprinto from "./sprinto.png"
-import tesla from "./company/tesla.png";
+
 import socialMedia from "./socialMedia.png"
 import library from "./library.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -59,9 +59,9 @@ export {
 library,
   apisero,
   sprinto,
-  tesla,
+
   carrent,
   socialMedia,
   jobit,
-  tripguide,
+ 
 };
